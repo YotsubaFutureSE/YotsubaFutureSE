@@ -40,6 +40,6 @@ I like anime, especially Yotsuba 🍀 (i think is kinda obvious)
 
 ## 🛠️ Skills 
 
--Fast learning 
--Currently learning English and Portuguese 
--Good with words and documents
+- Fast learning 
+- Currently learning English and Portuguese 
+- Good with words and documents
