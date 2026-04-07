@@ -2,10 +2,9 @@
  
 💻 Future Software Engineer  
 🌱 Currently learning programming step by step  
-💚 Actually learning by myself
-(i start study in 2028 after my 2 years mission on brasil)
+💚 Actually learning by myself 
 ---
-
+(i start study in 2028 after my 2 years mission on brasil)
 ## 🚀 About Me
 - I’m starting my journey in software development
 - I want to become a professional Software Engineer
